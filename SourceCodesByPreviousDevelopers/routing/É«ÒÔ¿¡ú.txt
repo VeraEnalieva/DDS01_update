@@ -1,3 +1,0 @@
-1) Дропаем таблицы в routing схеме
-2) Апдейтим функции в БД из файлов: t01_route_tables_maker.sql, t01_set_maxspeed.sql, t01_set_rn_or_rg_ids_for_allroads.sql, t01_format_table.sql
-3) Выпоняем скрипт из схемы public.t01_route_tables_maker()
